@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'pages#home'   # Default controller in controllers directory
+  root 'pages#home'   # Default controller in the controllers directory
 end
